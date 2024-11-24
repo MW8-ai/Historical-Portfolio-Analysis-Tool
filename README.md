@@ -1,4 +1,4 @@
-Here's an improved version of your README.md file:
+Version 1 Beta
 
 # Portfolio Analyzer
 
