@@ -25,18 +25,6 @@ This Python script analyzes historical stock and cryptocurrency prices to provid
 2. Install the required dependencies by running the following command:
 
    ```
-   pip install -r requirements.txt
-   ```
-
-   or
-
-   ```
-   pip3 install -r requirements.txt
-   ```
-
-   Alternatively, you can install the dependencies individually:
-
-   ```
    pip install pandas numpy yfinance plotly
    ```
 
